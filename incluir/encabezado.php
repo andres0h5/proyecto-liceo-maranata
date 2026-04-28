@@ -1,5 +1,5 @@
 <header style="background-color: #00235a; color: white; padding: 15px 30px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.3);">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
     
     <div class="logotipo" style="display: flex; align-items: center; gap: 15px;">
         <img src="recursos/logos/logo-blanco-maranata.png" alt="logo" style="width: 100px;">
