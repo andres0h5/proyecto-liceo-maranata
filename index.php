@@ -19,6 +19,10 @@ if ($conexion) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Liceo Maranata | Excelencia Educativa</title>
     <link rel="stylesheet" href="css/estilo.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> // Agregamos Bootstrap para estilos rápidos y responsivos
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <meta name="description" content="Portal oficial de Admisiones del Liceo Maranata. Formación integral en Bogotá.">
+<meta name="keywords" content="Liceo Maranata, Matriculas, Admisión, Educación, Bogotá, Colombia">
 </head>
 <body style="margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f2f5;">
 

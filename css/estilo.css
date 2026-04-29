@@ -126,7 +126,7 @@
     font-weight: bold;
 }
 
-/* Cuando pasa el mouse por el iconom de WhatsApp se, muestra el tooltip */
+/* Cuando pasa el mouse por el icono de Whatsapp */
 .whatsapp-container:hover .whatsapp-tooltip {
     visibility: visible;
     opacity: 1;

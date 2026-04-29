@@ -2,7 +2,7 @@
     
     
     <div class="logotipo" style="display: flex; align-items: center; gap: 15px;">
-        <img src="recursos/logos/logo-blanco-maranata.png" alt="logo" style="width: 100px;">
+        <img src="recursos/logos/logo-blanco-maranata.png" alt="logo liceo maranata" style="width: 100px;">
         <h2 style="margin: 0; color: #ffcc00; font-size: 1.5rem; letter-spacing: 1px; text-transform: uppercase;">
             Liceo Maranata
         </h2>
