@@ -1,3 +1,11 @@
+header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Para que siempre esté por encima del contenido */
+    background-color: #00235a;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
 .pie-institucional {
     background-color: #00235a; /* Azul Navy del Logo */
     color: white;
@@ -45,7 +53,7 @@
     transition: all 0.3s ease; /* Transición suave */
 }
 
-/* EFECTO HOVER: Para que el instructor vea interactividad */
+
 .icono-red:hover {
     background-color: #ffcc00;
     color: #00235a;

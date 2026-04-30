@@ -2,7 +2,7 @@
     
     <div style="max-width: 1200px; margin: auto; display: flex; flex-wrap: wrap; justify-content: space-around; gap: 30px;">
         <div style="flex: 1; min-width: 250px;">
-            <h3 style="color: #ffcc00;">Liceo Maranata</h3>
+            <h3 style="color: #ffcc00;">Liceo Maranatha</h3>
             <p>Excelencia académica y valores cristianos.</p>
         </div>
 
@@ -37,6 +37,6 @@
         <i class="fab fa-whatsapp"></i>
     </a>
 </div>
-        <p>&copy; 2026 Liceo Maranata | Desarrollado por <strong>Andrés Holguín</strong></p>
+        <p>&copy; 2026 Liceo Maranatha | Desarrollado por <strong>Andrés Holguín</strong></p>
     </div>
 </footer>
